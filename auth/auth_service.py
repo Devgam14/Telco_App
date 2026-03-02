@@ -1,4 +1,6 @@
 """
 Authentication service logic.
 """
-pass
+
+x = [1 ,2 ,3 ] 
+print(x * 2)

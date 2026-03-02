@@ -1,3 +1,0 @@
-pydal
-prettytable
-requests
