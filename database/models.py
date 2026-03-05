@@ -5,7 +5,6 @@ from .dbfile import db
 db.define_table('users',
     Field('user_id', 'integer'),  # Your unique ID
     Field('name' , 'str'),
-    Field('phone'),
     Field('balance', 'float', default=0.0)
 )
 
