@@ -46,7 +46,6 @@ Stores account-level data.
 | ------- | ------- |
 | user_id | integer |
 | name    | string  |
-| phone   | string  |
 | balance | float   |
 
 ---
